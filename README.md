@@ -3,6 +3,8 @@
 Inspired by [Ren'Py], Rakugo Project is aimed at providing a better toolset for narrative-based games on [Godot].
 Simplify your project, if it is a visual novel, point and click, RPG, interactive text game or many other styles and blends of styles.
 
+Some icons used on page are from: https://www.flaticon.com/
+
 ## How to add my own Rakugo addon
 If you want your Rakugo addon to be shown on this website:
 1. Fork it
