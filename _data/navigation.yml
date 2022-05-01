@@ -5,8 +5,8 @@ main:
     url: /features/
   - title: "Download / Kits"
     url: /download/
-  # - title: "Addons"
-  #   url : /addons/
+  - title: "Addons"
+    url: /addons/
   - title: "Donations"
     url: /donations/
   - title: "Learn"
