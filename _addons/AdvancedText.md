@@ -7,12 +7,12 @@ author_profile: true
 author: "Jeremi Biernacki"
 layout: single
 header:
-  teaser: assets/kits_addons/rakugo-rpg.png
-  overlay_image: assets/kits_addons/rakugo-rpg.png
-  caption: "0.1.2"
+  teaser: assets/placeholder.png
+  overlay_image: assets/placeholder.png
+  caption: "1.5"
   actions:
     - label: "Download"
-      url: "https://github.com/rakugoteam/rakugo-open-rpg/releases/download/0.1.2/rpg-game-kit-0.1.2.zip"
+      url: "https://github.com/rakugoteam/AdvancedText/releases"
 ---
 
 - [repo](https://github.com/rakugoteam/AdvancedText)

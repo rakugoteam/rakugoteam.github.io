@@ -6,8 +6,8 @@ published: true
 author_profile: true
 layout: single
 header:
-  teaser: assets/kits_addons/rakugo-rpg.png
-  overlay_image: assets/kits_addons/rakugo-rpg.png
+  teaser: assets/imgs_main/d_the_question.png
+  overlay_image: assets/imgs_main/d_the_question.png
   caption: "WIP"
   actions:
     - label: "Download"

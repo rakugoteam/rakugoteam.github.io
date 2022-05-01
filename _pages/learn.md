@@ -36,4 +36,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row %}
+<!-- {% include feature_row %} -->
+
+## Coming Soon
