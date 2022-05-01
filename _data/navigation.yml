@@ -1,9 +1,19 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Devlog"
+    url: /devlog/
+  - title: "Features"
+    url: /features/
+  - title: "Download / Kits"
+    url: /download/
+  # - title: "Addons"
+  #   url : /addons/
+  - title: "Donations"
+    url: /donations/
+  - title: "Learn"
+    url: /learn/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Showcase"
+    url: /showcase/
+  - title: "Report an Issue"
+    url: https://github.com/rakugoteam/Rakugo
