@@ -24,7 +24,7 @@ timezone: Europe/Warsaw
 
 include:
   - _pages
-  - _devlogs
+  - _devlog
   - _addons
   - _kits
 
@@ -97,8 +97,8 @@ defaults:
       author_profile: true
   ##_devlog
   - scope:
-      path: "_posts"
-      type: posts
+      path: ""
+      type: devlog
     values:
       layout: single
       author_profile: true
@@ -128,6 +128,10 @@ defaults:
 
 # Collections
 collections:
+  devlog:
+    output: true
+    permalink: /:collection/:title/
+    sort_by: date
   addons:
     output: true
     permalink: /:collection/:path/

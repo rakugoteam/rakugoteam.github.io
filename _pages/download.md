@@ -1,8 +1,12 @@
 ---
 permalink: /download/
 title: "Download / Kits"
-layout: splash
+layout: collection
+collection: kits
+entries_layout: grid
+classes: wide
 author_profile: true
+---
 
 feature_row:
   - image_path: assets/imgs_main/d_template.png

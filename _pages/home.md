@@ -1,4 +1,9 @@
-
+---
+permalink: /
+title: ""
+author_profile: true
+layout: home
+---
 # About
 
 ![](../../new-website/assets/images/assets/logo.png)
