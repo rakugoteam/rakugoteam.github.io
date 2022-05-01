@@ -1,5 +1,5 @@
 ---
-permalink: /addons/add-your-addon/
+permalink: /addons/add-your-addon
 title: "How to add your addon"
 excerpt: "Click here to find out how to add your own addon to this page."
 published: true

@@ -31,6 +31,7 @@ include:
 exclude:
   - "_addons/addon-example.md"
   - "_kits/kit-example.md"
+  - "_showcase/showcase-example.md"
 
 # Plugins
 plugins:
@@ -132,6 +133,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   kits:
+    output: true
+    permalink: /:collection/:path/
+  showcase:
     output: true
     permalink: /:collection/:path/
 

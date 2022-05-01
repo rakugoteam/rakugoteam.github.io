@@ -1,5 +1,5 @@
 ---
-permalink: /kits/add-your-kit/
+permalink: /kits/add-your-kit
 title: "How to add your kit"
 excerpt: "Click here to find out how to add your own kit to this page."
 published: true

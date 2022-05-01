@@ -9,10 +9,10 @@ layout: single
 header:
   teaser: assets/addons/material-icons.png
   overlay_image: assets/addons/material-icons.png
-  caption: "1.3"
+  caption: "1.4"
   actions:
     - label: "Download"
-      url: "https://github.com/rakugoteam/Godot-Material-Icons/releases"
+      url: "https://github.com/rakugoteam/Godot-Material-Icons/releases/latest"
 ---
 
 # Godot-Material-Icons

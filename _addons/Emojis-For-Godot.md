@@ -9,10 +9,10 @@ layout: single
 header:
   teaser: assets/addons/emojis.png
   overlay_image: assets/addons/emojis.png
-  caption: "1.3"
+  caption: "1.4"
   actions:
     - label: "Download"
-      url: "https://github.com/rakugoteam/Emojis-For-Godot/releases"
+      url: "https://github.com/rakugoteam/Emojis-For-Godot/releases/latest"
 ---
 
 # Emojis for Godot
