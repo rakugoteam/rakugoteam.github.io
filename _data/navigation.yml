@@ -13,7 +13,7 @@ main:
     url: /learn/
   - title: "FAQ"
     url: /faq/
-  - title: "Showcase"
-    url: /showcase/
+  # - title: "Showcase"
+  #   url: /showcase/
   - title: "Report an Issue"
     url: https://github.com/rakugoteam/Rakugo

@@ -18,8 +18,8 @@ highlighter: rouge
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: Europe/Warsaw
 
 include:
@@ -34,7 +34,7 @@ exclude:
 
 # Plugins
 plugins:
-  - jekyll-paginate
+  # - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -44,7 +44,7 @@ plugins:
 
 # to make it work on GitHub:
 whitelist:
-  - jekyll-paginate
+  # - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed

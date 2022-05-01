@@ -1,6 +1,7 @@
 ---
 permalink: /addons/name-of-your-addon/
 title: "Name of your addon"
+excerpt: "Short description of your addon."
 published: true
 author_profile: true
 layout: single

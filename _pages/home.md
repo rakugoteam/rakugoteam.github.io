@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: ""
+hidden: true
 author_profile: true
-layout: single
+layout: home
 header:
-	overlay_image: https://img.itch.zone/aW1hZ2UvODQxNTg3LzQ3MTg2NzIucG5n/original/IWLcUQ.png
-	caption: >-
-		Light Letters
-		Rakugo v3.0.0b game, it is a VN-2D platformer hybrid. Made for 2020 Yuri Game Jam.
+  overlay_image: https://img.itch.zone/aW1hZ2UvODQxNTg3LzQ3MTg2NzIucG5n/original/IWLcUQ.png
+  caption: >-
+    Light Letters
+    Rakugo v3.0.0b game, it is a VN-2D platformer hybrid. Made for 2020 Yuri Game Jam.
 ---
 
 ![](../../new-website/assets/images/assets/logo.png)

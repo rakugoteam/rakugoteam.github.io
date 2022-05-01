@@ -1,6 +1,7 @@
 ---
 permalink: /kits/name-of-your-kit/
 title: "Name of your kit"
+excerpt: "Short description of your kit."
 published: true
 author_profile: true
 layout: single
