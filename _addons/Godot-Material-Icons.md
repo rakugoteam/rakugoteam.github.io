@@ -1,3 +1,20 @@
+---
+permalink: /addons/material-icons/
+title: "Material Icons for Godot"
+excerpt: "Add possible to use Material Icons Font in your Godot projects."
+published: true
+author_profile: true
+author: "Jeremi Biernacki"
+layout: single
+header:
+  teaser: assets/kits_addons/rakugo-rpg.png
+  overlay_image: assets/kits_addons/rakugo-rpg.png
+  caption: "0.1.2"
+  actions:
+    - label: "Download"
+      url: "https://github.com/rakugoteam/rakugo-open-rpg/releases/download/0.1.2/rpg-game-kit-0.1.2.zip"
+---
+
 ![github-top-lang][lang] ![lic] ![lic-font]
 
 # Godot-Material-Icons

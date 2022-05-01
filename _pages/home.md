@@ -2,15 +2,20 @@
 permalink: /
 title: ""
 author_profile: true
-layout: home
+layout: single
+header:
+	overlay_image: https://img.itch.zone/aW1hZ2UvODQxNTg3LzQ3MTg2NzIucG5n/original/IWLcUQ.png
+	caption: >-
+		Light Letters
+		Rakugo v3.0.0b game, it is a VN-2D platformer hybrid. Made for 2020 Yuri Game Jam.
 ---
-# About
 
 ![](../../new-website/assets/images/assets/logo.png)
-
+<!-- 
 ![](https://img.itch.zone/aW1hZ2UvODQxNTg3LzQ3MTg2NzIucG5n/original/IWLcUQ.png)
 ***Light Letters***
 *Rakugo v3.0.0b game, it is a VN-2D platformer hybrid. Made for 2020 Yuri Game Jam.*
+ -->
 
 Inspired by [Ren'Py], Rakugo Project is aimed at providing a better toolset for narrative-based games on [Godot].
 Simplify your project, if it is a visual novel, point and click, RPG, interactive text game or many other styles and blends of styles.
@@ -26,9 +31,11 @@ Features included in any Kit:
 - Option system
 - UI template for your project
 
-<!-- ...[and much, much more](/features/).
+<!-- 
+...[and much, much more](/features/).
 
-Read our [documentation](/RakugoDocs-new/) and [download Rakugo](/download/), free! -->
+Read our [documentation](/RakugoDocs-new/) and [download Rakugo](/download/), free!
+-->
 
 [Ren'Py]: https://www.renpy.org
 [Godot]: https://godotengine.org
