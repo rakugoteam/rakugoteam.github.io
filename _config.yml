@@ -13,28 +13,33 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Rakugo Project
+email: jeremi360@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  Rakugo for Godot Engine, Inspired by Ren'Py, Rakugo Project is aimed at providing a better toolset for narrative-based games on Godot.
+  Simplify your project, if it is a visual novel, point and click, RPG, interactive text game or many other styles and blends of styles.
+  Now its a set of plugins for Godot, that can be used in any Godot project.
+  But they are also Kits that bring together of our plugins to template that fit your project genre.
+
+twitter_username: BiernackiJeremi
+github_username: rakugoteam
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+permalink: /:categories/:title
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Warsaw
 
 include:
   - _pages
+  - _posts
+  - _addons
+  - _downloads
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -56,41 +61,64 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
+
+# to make it work on GitHub:
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: Rakugo Team / Jeremi Biernacki
+  avatar: "/assets/imgs_main/logo.png"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Roadmaps"
+      icon: "fas fa-road"
+      url: "https://github.com/rakugoteam/Rakugo/projects"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-github"
+      url: "https://github.com/rakugoteam/Rakugo"
+    # - label: "Docs"
+    #   icon: "fas fa-book"
+    #   url: "https://rakugodocs.readthedocs.io"
+    - label: "Discord"
+      icon: "fas fa-comments"
+      url: "https://discord.gg/K9gvjdg"
+    - label: "Patreon"
+      icon: "fas fa-donate"
+      url: "https://www.patreon.com/rakguoteam"
+    - label: "itch.io"
+      icon: "fas fa-shopping-bag"
+      url: "https://jeremi360x.itch.io/rakugo"
+    # - label: "Youtube Channel"
+    #   icon: "fab fa-youtube-square"
+    #   url: "https://www.youtube.com/channel/UCuItFHsERbsyi8gLJ7Ti1KA"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/BiernackiJeremi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/rakugoteam/Rakugo"
 
 defaults:
-  # _posts
+  ##_pages
   - scope:
-      path: ""
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  ##_posts
+  - scope:
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -99,13 +127,25 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  ##_addons
   - scope:
-      path: "_pages"
+      path: "_addons"
       type: pages
     values:
       layout: single
       author_profile: true
+      comments: true
+      share: true
+  ##_downloads
+  - scope:
+      path: "_downloads"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+      share: true
+      related: true
 
 category_archive:
   type: liquid

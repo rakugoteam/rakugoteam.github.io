@@ -12,7 +12,7 @@ Simplify your project, if it is a visual novel, point and click, RPG, interactiv
 Now its a set of plugins for Godot, that can be used in any Godot project.
 But they are also Kits that bring together of our plugins to template that fit your project genre.
 
-Unlock the potential of [Godot] 3.4.x with Rakugo!
+Unlock the potential of [Godot] 3.4+ with Rakugo!
 
 Features included in any Kit:
 
