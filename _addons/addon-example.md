@@ -1,5 +1,5 @@
 ---
-permalink: /addons/name-of-your-addon/
+permalink: /addons/name-of-your-addon
 title: "Name of your addon"
 excerpt: "Short description of your addon."
 published: true

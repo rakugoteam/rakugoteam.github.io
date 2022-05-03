@@ -1,5 +1,5 @@
 ---
-permalink: /kits/visual-novel-kit/
+permalink: /kits/visual-novel-kit
 title: "Visual Novel Kit"
 excerpt: "Kit for creating visual novels."
 published: true

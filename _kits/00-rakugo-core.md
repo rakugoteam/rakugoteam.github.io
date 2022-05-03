@@ -1,5 +1,5 @@
 ---
-permalink: /addons/rakugo-core/
+permalink: /addons/rakugo-core
 title: "Rakugo Core"
 excerpt: "Our dialogue system and more."
 published: true

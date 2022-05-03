@@ -1,5 +1,5 @@
 ---
-permalink: /addons/material-icons/
+permalink: /addons/material-icons
 title: "Material Icons for Godot"
 excerpt: "Add possible to use Material Icons Font in your Godot projects."
 published: true

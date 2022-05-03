@@ -1,5 +1,5 @@
 ---
-permalink: /kits/name-of-your-kit/
+permalink: /kits/name-of-your-kit
 title: "Name of your kit"
 excerpt: "Short description of your kit."
 published: true

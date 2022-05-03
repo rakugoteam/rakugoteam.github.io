@@ -1,5 +1,5 @@
 ---
-permalink: /showcase/name-of-your-project/
+permalink: /showcase/name-of-your-project
 title: "Name of your Project"
 excerpt: "Short description of your Rakugo project."
 published: true

@@ -17,7 +17,7 @@ remote_theme: mmistakes/minimal-mistakes
 highlighter: rouge
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Europe/Warsaw
@@ -27,6 +27,7 @@ include:
   - _devlog
   - _addons
   - _kits
+  - _showcase
 
 exclude:
   - "_addons/addon-example.md"
