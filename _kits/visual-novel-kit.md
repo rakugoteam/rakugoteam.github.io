@@ -27,8 +27,10 @@ It will be simpler and easier when it will be ready.
 As this is still work in progress and release is not yet ready,
 here is how to setup project, step by step:
 
-1. Download Visual Novel Kit code as zip unpack it: https://github.com/rakugoteam/VisualNovelKit/archive/refs/heads/1.0.zip
-2. Then open this folder in cmd, PowerShell or Terminal and write: godot --no-window -s plug.gd install force (this will install all needed addons)
+1. Download Visual Novel Kit code as zip unpack it:
+https://github.com/rakugoteam/VisualNovelKit/archive/refs/heads/1.0.zip
+2. Then open this folder in cmd, PowerShell or Terminal and write:
+`godot --no-window -s plug.gd install force` (this will install all needed addons)
 3. Open this folder as Godot Project and your are ready to go, 
 
 ## Customizing UI
