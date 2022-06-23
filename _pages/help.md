@@ -1,15 +1,15 @@
 ---
-permalink: /learn/
-title: "Learn"
+permalink: /help/
+title: "Help"
 layout: splash
 author_profile: true
 feature_row:
   - image_path: assets/imgs_main/docs.png
     image_caption: "RakugoDocs"
     ## alt: ""
-    title: "RakugoDocs"
+    title: "Rakugo Core Docs"
     ## excerpt: ""
-    url: "https://rakugodocs.readthedocs.io"
+    url: "https://rakugoteam.github.io/rakugo-docs/"
     btn_label: "Learn"
     btn_class: "btn--primary"
   - image_path: assets/imgs_main/yt.png
@@ -30,7 +30,7 @@ feature_row:
   - image_path: assets/imgs_main/godot_docs.png
     title: "Godot Docs"
     image_caption: "Godot Docs"
-    url: "https://docs.godotengine.org/en/3.2/"
+    url: "https://docs.godotengine.org/en/3.4/"
     excerpt: ""
     btn_label: "Learn Godot"
     btn_class: "btn--primary"

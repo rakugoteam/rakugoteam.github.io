@@ -24,14 +24,13 @@ Simplify your project, if it is a visual novel, point and click, RPG, interactiv
 * Ability to Rollback
 * History
 * Skipping
-* Documentation: https://rakugodocs.readthedocs.io
+* Documentation: https://rakugoteam.github.io/rakugo-docs/
 
 ## Installation
 
 To install Rakugo plugin, download it as a ~~[ZIP archive]()~~ (WIP). Extract the `addons/Rakugo` folder into your project folder. Then, enable the plugin in project settings and restart Godot-Engine.
 
 If you want to know more about installing plugins you can read the [official documentation page](https://docs.godotengine.org/en/stable/tutorials/plugins/editor/installing_plugins.html).
-
 
 
 [Ren'Py]: https://www.renpy.org
