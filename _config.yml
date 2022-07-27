@@ -29,12 +29,14 @@ include:
   - _kits
   - _showcase
   - _demos
+  - _docs
 
 exclude:
   - "_addons/addon-example.md"
   - "_kits/kit-example.md"
   - "_showcase/showcase-example.md"
   - "_demos/demo-example.md"
+  - "_docs/docs-example.md"
 
 # Plugins
 plugins:
@@ -149,6 +151,16 @@ defaults:
       comments: true
       share: true
       related: true
+  ##_docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+      share: true
+      related: true
 
 # Collections
 collections:
@@ -162,6 +174,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   demos:
+    output: true
+    permalink: /:collection/:path/
+  docs:
     output: true
     permalink: /:collection/:path/
 

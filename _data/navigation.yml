@@ -9,8 +9,8 @@ main:
     url: /addons/
   - title: "Demos"
     url: /demos/
-  - title: "Learn"
-    url: /learn/
+  - title: "Docs"
+    url: /docs/
   - title: "FAQ"
     url: /faq/
   - title: "Showcase"
