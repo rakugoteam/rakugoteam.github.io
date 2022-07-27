@@ -28,11 +28,13 @@ include:
   - _addons
   - _kits
   - _showcase
+  - _demos
 
 exclude:
   - "_addons/addon-example.md"
   - "_kits/kit-example.md"
   - "_showcase/showcase-example.md"
+  - "_demos/demo-example.md"
 
 # Plugins
 plugins:
@@ -127,6 +129,26 @@ defaults:
       comments: true
       share: true
       related: true
+  ##_showcase
+  - scope:
+      path: ""
+      type: showcase
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+      share: true
+      related: true
+  ##_demos
+  - scope:
+      path: ""
+      type: demos
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+      share: true
+      related: true
 
 # Collections
 collections:
@@ -137,6 +159,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   showcase:
+    output: true
+    permalink: /:collection/:path/
+  demos:
     output: true
     permalink: /:collection/:path/
 

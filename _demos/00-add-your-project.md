@@ -1,5 +1,5 @@
 ---
-permalink: /showcase/add-your-project
+permalink: /demos/add-your-project
 title: "How to add your project"
 excerpt: "Click here to find out how to add your own project to this page."
 published: true
@@ -15,7 +15,7 @@ header:
 
 If you want your Rakugo project to be shown on this website:
 1. Fork it
-2. In folder *_showcase*, crate a copy of file *showcase-example.md*
+2. In folder *_demos*, crate a copy of file *demo-example.md*
 3. Rename it to *your-project-name.md*
 4. Edit it with info about your project
 5. Commit and push

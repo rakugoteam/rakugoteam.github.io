@@ -7,8 +7,8 @@ main:
     url: /download/
   - title: "Addons"
     url: /addons/
-  # - title: "Donations"
-  #   url: /donations/
+  - title: "Demos"
+    url: /demos/
   - title: "Learn"
     url: /learn/
   - title: "FAQ"

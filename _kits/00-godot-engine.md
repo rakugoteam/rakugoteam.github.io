@@ -1,6 +1,6 @@
 ---
 link: https://godotengine.org/download
-permalink : kits/godot-engine
+permalink : /kits/godot-engine
 title: "Godot Engine"
 excerpt: "A 2D and 3D, cross-platform, free and open-source game engine thats powers Rakugo"
 published: true
