@@ -6,9 +6,9 @@ published: true
 author_profile: true
 layout: single
 header:
-  teaser: assets/imgs_main/d_template.png
-  image: assets/imgs_main/d_template.png
-  caption: "WIP, this UI is only a example for Visual Novel Kit, there is no any UI template included in this addon."
+  # teaser: assets/empty.png
+  # image: assets/empty.png
+  # caption: "WIP, this UI is only a example for Visual Novel Kit, there is no any UI template included in this addon."
   actions:
     - label: "Download"
       url: "https://github.com/rakugoteam/Rakugo/releases"
@@ -17,15 +17,13 @@ header:
 Inspired by [Ren'Py], Rakugo Project is aimed at providing a better toolset for narrative-based games on [Godot].
 Simplify your project, if it is a visual novel, point and click, RPG, interactive text game or many other styles and blends of styles.
 
+[**⬇ Download**](https://github.com/rakugoteam/Rakugo/releases)
+
 ## Feature
 * Save/Load system
 * Funcs, Objects and Vars like in Ren'Py
 * Dialog system
-* Ability to Rollback
-* History
-* Skipping
-* Documentation: https://rakugodocs.readthedocs.io
-
+* Documentation: h<ttps://rakugoteam.github.io/rakugo-docs/>
 ## Installation
 
 To install Rakugo plugin, download it as a [ZIP archive](https://github.com/rakugoteam/Rakugo/releases/download/1.0/Rakugo_v1_0.zip) . 
