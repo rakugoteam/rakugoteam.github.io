@@ -1,5 +1,5 @@
 ---
-permalink: /addons/rakugo-core
+permalink: /rakugo-core
 title: "Rakugo Core"
 excerpt: "Our dialogue system and more."
 published: true
@@ -18,7 +18,7 @@ Simplify your project, if it is a visual novel, point and click, RPG, interactiv
 * Save/Load system
 * Funcs, Objects and Vars like in Ren'Py
 * Dialog system
-* Documentation: h<ttps://rakugoteam.github.io/rakugo-docs/>
+* Documentation: <https://rakugoteam.github.io/rakugo-docs/>
 
 ## Installation
 
