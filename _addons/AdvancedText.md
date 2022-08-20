@@ -7,8 +7,8 @@ author_profile: true
 author: "Jeremi Biernacki"
 layout: single
 header:
-  teaser: assets/placeholder.png
-  overlay_image: assets/placeholder.png
+  # teaser: assets/placeholder.png
+  # overlay_image: assets/placeholder.png
   caption: "1.5"
   actions:
     - label: "Download"
