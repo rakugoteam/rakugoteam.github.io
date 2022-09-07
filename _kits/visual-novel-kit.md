@@ -11,7 +11,7 @@ header:
   caption: "WIP"
   actions:
     - label: "Download beta"
-      url: "https://github.com/rakugoteam/VisualNovelKit/releases/download/1.0-beta.1/VisualNovelKit.zip"
+      url: "https://github.com/rakugoteam/VisualNovelKit/releases/download/1.0-beta.1/VisualNovelKit_1.0-beta.1.zip"
 ---
 
 This combine Rakugo with addons and gui for visual novel development.
@@ -26,7 +26,7 @@ It will be simpler and easier when it will be ready.
 As this is still work in progress and release is not yet ready,
 here is how to setup project, step by step:
 
-1. Download Visual Novel Kit code as zip unpack it: <https://github.com/rakugoteam/VisualNovelKit/releases/download/1.0-beta.1/VisualNovelKit.zip>
+1. [Download Visual Novel Kit](https://github.com/rakugoteam/VisualNovelKit/releases/download/1.0-beta.1/VisualNovelKit_1.0-beta.1.zip) and unpack it
 2. Open this folder as Godot Project and your are ready to go
 
 ## Customizing UI
