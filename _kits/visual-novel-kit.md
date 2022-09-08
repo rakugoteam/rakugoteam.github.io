@@ -11,7 +11,7 @@ header:
   caption: "WIP"
   actions:
     - label: "Download beta"
-      url: "https://github.com/rakugoteam/VisualNovelKit/releases/download/1.0-beta.1/VisualNovelKit_1.0-beta.1.zip"
+      url: "https://github.com/rakugoteam/VisualNovelKit/releases/download/1.0-beta.2/VisualNovelKit_1.0-beta.2.zip"
 ---
 
 This combine Rakugo with addons and gui for visual novel development.
@@ -21,13 +21,15 @@ It will be simpler and easier when it will be ready.
 
 - [**Repo**](https://github.com/rakugoteam/VisualNovelKit)
 
-## Project Setup
+# Project Setup
 
-As this is still work in progress and release is not yet ready,
-here is how to setup project, step by step:
+## Fresh Project
+1. [Download Visual Novel Kit](https://github.com/rakugoteam/VisualNovelKit/releases/download/1.0-beta.2/VisualNovelKit_1.0-beta.2.zip)
+2. Unpack it and open this folder as Godot Project and your are ready to go
 
-1. [Download Visual Novel Kit](https://github.com/rakugoteam/VisualNovelKit/releases/download/1.0-beta.1/VisualNovelKit_1.0-beta.1.zip) and unpack it
-2. Open this folder as Godot Project and your are ready to go
+## Update from 01.0-beta.1
+1. [Download Visual Novel Kit Update](https://github.com/rakugoteam/VisualNovelKit/releases/download/1.0-beta.2/nvkit_1.0-beta.2.zip) 
+2. Unpack it over *addons/vnkit* in side your project
 
 ## Customizing UI
 All folders in this directory are UI scenes, and *Window/Window.tscn* is main one that content them all together.
