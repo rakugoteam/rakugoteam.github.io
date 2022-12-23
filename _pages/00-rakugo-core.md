@@ -22,7 +22,7 @@ Simplify your project, if it is a visual novel, point and click, RPG, interactiv
 
 ## Installation
 
-To install Rakugo plugin, download it as a [ZIP archive](https://github.com/rakugoteam/Rakugo/releases/download/1.0/Rakugo_v1_0.zip).
+To install Rakugo plugin, download it as a [ZIP archive](https://github.com/rakugoteam/Rakugo/releases/download/1.1.1/Rakugo_v1_1_1.zip).
 Extract the `addons/Rakugo` folder into your project folder. Then, enable the plugin in project settings and restart Godot-Engine.
 
 If you want to know more about installing plugins you can read the 
