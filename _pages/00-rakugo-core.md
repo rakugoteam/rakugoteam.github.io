@@ -12,7 +12,7 @@ header:
 Inspired by [Ren'Py], Rakugo Project is aimed at providing a better toolset for narrative-based games on [Godot].
 Simplify your project, if it is a visual novel, point and click, RPG, interactive text game or many other styles and blends of styles.
 
-[**⬇ Download**](https://github.com/rakugoteam/Rakugo/releases)
+[**⬇ Download**](https://github.com/rakugoteam/Rakugo/releases/latest)
 
 ## Feature
 * Save/Load system
@@ -22,7 +22,7 @@ Simplify your project, if it is a visual novel, point and click, RPG, interactiv
 
 ## Installation
 
-To install Rakugo plugin, download it as a [ZIP archive](https://github.com/rakugoteam/Rakugo/releases/download/1.1.1/Rakugo_v1_1_1.zip).
+To install Rakugo plugin, download it as a [ZIP archive from here](https://github.com/rakugoteam/Rakugo/releases/latest).
 Extract the `addons/Rakugo` folder into your project folder. Then, enable the plugin in project settings and restart Godot-Engine.
 
 If you want to know more about installing plugins you can read the 
