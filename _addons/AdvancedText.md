@@ -12,11 +12,11 @@ header:
   caption: "1.5"
   actions:
     - label: "Download"
-      url: "https://github.com/rakugoteam/AdvancedText/releases"
+      url: "https://github.com/rakugoteam/AdvancedText/releases/latest"
 ---
 
 - [repo](https://github.com/rakugoteam/AdvancedText)
-- [download](https://github.com/rakugoteam/AdvancedText/releases)
+- [download](https://github.com/rakugoteam/AdvancedText/releases/latest)
 - docs (WIP)
 
 Extends RichTextLabel and adds support for Markdown and RenPy
@@ -27,7 +27,7 @@ Soon there will be docs for most of the features.
 - Variables use `<var>` in Markdown, Renpy and BBCode
 - Adds headers supports RenPy and BBCode
 - Support [Emojis For Godot](https://github.com/rakugoteam/Emojis-For-Godot) use `:emoji:`
-- Adds **MarkupTextEditor** tool to the editor for easy editing text in nodes and files
+- Support [MaterialIcons For Godot](https://github.com/rakugoteam/Godot-Material-Icons) use `[icon=icon-name]`
 
 ### Nodes
 - **AdvancedTextLabel** - A label that supports Markdown and RenPy
