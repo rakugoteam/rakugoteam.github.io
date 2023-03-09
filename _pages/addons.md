@@ -14,9 +14,9 @@ addons:
     btn_label: "Create Addon Issue on Github"
     btn_class: "btn--primary"
 
-  - title: "Rakugo Core"
+  - title: "Rakugo Dialogue System"
     excerpt: "Our Dialogue Engine and Save/Load System"
-    url: "/rakugo-core"
+    url: "/rakugo-dialogue-system"
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
   

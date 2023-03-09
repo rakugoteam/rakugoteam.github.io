@@ -1,6 +1,6 @@
 ---
-permalink: /rakugo-core
-title: "Rakugo Core"
+permalink: /rakugo-dialogue-system
+title: "Rakugo Dialogue System"
 excerpt: "Our dialogue system and more."
 published: true
 author_profile: true
@@ -12,9 +12,10 @@ header:
 Inspired by [Ren'Py], Rakugo Project is aimed at providing a better toolset for narrative-based games on [Godot].
 Simplify your project, if it is a visual novel, point and click, RPG, interactive text game or many other styles and blends of styles.
 
-[**⬇ Download**](https://github.com/rakugoteam/Rakugo/releases/latest)
+[**⬇ Download**](https://github.com/rakugoteam/Rakugo-Dialogue-System/releases/latest)
 
 ## Feature
+
 * Save/Load system
 * Funcs, Objects and Vars like in Ren'Py
 * Dialog system
@@ -22,7 +23,7 @@ Simplify your project, if it is a visual novel, point and click, RPG, interactiv
 
 ## Installation
 
-To install Rakugo plugin, download it as a [ZIP archive from here](https://github.com/rakugoteam/Rakugo/releases/latest).
+To install Rakugo plugin, download it as a [ZIP archive from here](https://github.com/rakugoteam/Rakugo-Dialogue-System/releases/latest).
 Extract the `addons/Rakugo` folder into your project folder. Then, enable the plugin in project settings and restart Godot-Engine.
 
 If you want to know more about installing plugins you can read the 
