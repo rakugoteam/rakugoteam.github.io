@@ -59,12 +59,9 @@ author:
   name: Rakugo Team
   avatar: "/assets/logo.png"
   links:
-    - label: "Roadmaps"
-      icon: "fas fa-road"
-      url: "https://github.com/rakugoteam/Rakugo/projects"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/rakugoteam/Rakugo"
+      url: "https://github.com/rakugoteam"
     - label: "Discord"
       icon: "fas fa-comments"
       url: "https://discord.gg/K9gvjdg"
@@ -85,7 +82,7 @@ footer:
       url: "https://twitter.com/BiernackiJeremi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rakugoteam/Rakugo"
+      url: "https://github.com/rakugoteam/Rakugo-Dialogue-System"
 
 defaults:
   ##_pages

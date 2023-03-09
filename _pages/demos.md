@@ -10,7 +10,7 @@ author_profile: true
 demos:
   - title: "Add Your Demo"
     # excerpt: "Click here to find out how to add your own demo to this page."
-    url: "https://github.com/rakugoteam/rakugoteam.github.io/issues/new?assignees=Jeremi360&labels=demo&template=demo.md&title=Add+Demo"
+    url: "https://github.com/rakugoteam/Rakugo-Dialogue-Systemteam.github.io/issues/new?assignees=Jeremi360&labels=demo&template=demo.md&title=Add+Demo"
     btn_label: "Create Demo Issue on Github"
     btn_class: "btn--primary"
   

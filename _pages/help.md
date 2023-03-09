@@ -7,7 +7,7 @@ feature_row:
   - image_path: assets/imgs_main/docs.png
     image_caption: "RakugoDocs"
     ## alt: ""
-    title: "Rakugo Core Docs"
+    title: "Rakugo Dialogue System Docs"
     ## excerpt: ""
     url: "https://rakugoteam.github.io/rakugo-docs/"
     btn_label: "Learn"
