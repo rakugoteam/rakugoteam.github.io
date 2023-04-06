@@ -28,6 +28,7 @@ feature_row:
   - image_path: assets/imgs_main/rakugo_dev.png
     title: "Raku Scripting Language"
     excerpt: "Easy to learn and expand Dialogue scripting langue model after famous Ren'Py Scripting Langue."
+    url: "https://rakugoteam.github.io/rakugo-docs/2.0.1/rakuscript/"
  
   - image_path: assets/imgs_main/nodes.png
     title: "Rakugo Nodes"
