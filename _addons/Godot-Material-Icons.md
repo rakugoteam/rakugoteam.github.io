@@ -35,6 +35,11 @@ So you can find the icons easily.
 
 ![](/assets/addons/material-icons.png)
 
+## Using it with RichTextLabel
+From version 2.0 you can use the icons in RichTextLabel.
+*I will backport this feature to version 1.x soon.*
+[Example code of using the icons in RichTextLabel here](https://github.com/rakugoteam/Godot-Material-Icons/blob/godot-4/addons/material-design-icons/examples/LabelWithIcons.gd)
+
 ## Exporting
 For emojis to work in exported projects, you need add `*.json` files to include files settings:
 ![include files settings](/assets/other/screenshot_export.png)
