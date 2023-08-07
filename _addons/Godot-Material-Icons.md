@@ -9,7 +9,7 @@ layout: single
 header:
   teaser: assets/addons/material-icons.png
   overlay_image: assets/addons/material-icons.png
-  caption: "1.4"
+  caption: "2.0"
   actions:
     - label: "Download"
       url: "https://github.com/rakugoteam/Godot-Material-Icons/releases/latest"
@@ -23,6 +23,8 @@ header:
 
 [*Templarian's Material-Design-Icons*](https://github.com/templarian/MaterialDesign) 
 is a collection of icons for the [Material Design](https://material.io/) specification.
+
+Now compatible with both Godot 3.4+ (version 1.x) and 4.0+ (version 2.x).
 
 This addon provides the following nodes to use the icons in Godot:
 - **MaterialIcon**: A node that displays an icon from the Material Design Icons collection.
