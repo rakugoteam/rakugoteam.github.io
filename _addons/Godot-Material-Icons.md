@@ -30,6 +30,8 @@ This addon provides the following nodes to use the icons in Godot:
 - **MaterialIcon**: A node that displays an icon from the Material Design Icons collection.
 - **MaterialButton**: A node that displays an icon from the Material Design Icons collection as a button (without label).
 
+Version 2.0 is rewritten to give you access to **MaterialIconsDB** singleton for easier use of icons anywhere in your project.
+
 It's also adds **IconsFinder** to the Godot's **Tools** menu.
 So you can find the icons easily.
 

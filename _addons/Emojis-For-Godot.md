@@ -29,7 +29,9 @@ This addon provides the following nodes to use emojis in Godot:
 - **EmojiIcon**: A node that displays an Emoji.
 - **EmojiButton**: A node that displays an Emoji as a button.
 
-It's also adds **EmojiFinder** to the Godot editor's toolbar.
+Version 2.0 is rewritten to give you access to **EmojisDB** singleton for easier use of emojis anywhere in your project.
+
+It's also adds **IconsFinder** to the Godot's **Tools** menu.
 So you can find the emojis easily.
 
 ![EmojiFinder Screen Shot](/assets/addons/emojis.png)
