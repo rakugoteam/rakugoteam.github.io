@@ -9,16 +9,16 @@ header:
   teaser: assets/empty.png
 ---
 
-Inspired by [Ren'Py], Rakugo Project is aimed at providing a better toolset for narrative-based games on [Godot].
-Simplify your project, if it is a visual novel, point and click, RPG, interactive text game or many other styles and blends of styles.
+Inspired by [Ren'Py], Rakugo Project is aimed at providing dialog system for narrative-based games on [Godot].
 
 [**⬇ Download**](https://github.com/rakugoteam/Rakugo-Dialogue-System/releases)
 
-## Feature
+## Features
 
 * Save/Load system
-* Funcs, Objects and Vars like in Ren'Py
-* Dialog system
+* Dialog system using Inspired by Ren'Py scripting langue called RakuScript
+* Global variables available from both RakuScript and GDScript levels
+* Global characters variables available from both RakuScript and GDScript levels
 * Documentation: <https://rakugoteam.github.io/rakugo-docs/>
 
 ## Installation
