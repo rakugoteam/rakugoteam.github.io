@@ -10,7 +10,7 @@ author_profile: true
 addons:
   - title: "Add your addon"
     # excerpt: "Click here to find out how to add your own addon to this page."
-    url: "https://github.com/rakugoteam/rakugoteam.github.io/issues/new?assignees=Jeremi360&labels=addon&template=addon.md&title=Add+Addon"
+    url: "https://github.com/rakugoteam/rakugoteam.github.io/issues/new/choose"
     btn_label: "Create Addon Issue on Github"
     btn_class: "btn--primary"
 

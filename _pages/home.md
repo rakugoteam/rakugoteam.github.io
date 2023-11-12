@@ -3,9 +3,11 @@ permalink: /
 hidden: true
 author_profile: true
 layout: home
+# header:
+#   caption: game "Elfindor destroys EVIL" by paperjack
+#   teaser: images/devlog/paperjack-game.png
+#   overlay_image: images/devlog/paperjack-game.png
 ---
-
-
 
 Inspired by [Ren'Py], Rakugo Project is aimed at providing you a toolset for narrative-based games on [Godot].
 

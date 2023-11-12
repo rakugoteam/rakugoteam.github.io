@@ -10,7 +10,7 @@ author_profile: true
 showcase:
   - title: "Add Your Game to our Showcase"
     # excerpt: "Click here to find out how to add your own showcase to this page."
-    url: "https://github.com/rakugoteam/Rakugo-Dialogue-Systemteam.github.io/issues/new?assignees=Jeremi360&labels=showcase&template=showcase.md&title=Add+Game"
+    url: "https://github.com/rakugoteam/rakugoteam.github.io/issues/new/choose"
     btn_label: "Create Game Issue on Github"
     btn_class: "btn--primary"
 

@@ -10,7 +10,7 @@ author_profile: true
 kits:
   - title: "Add Your Kit"
     # excerpt: "Click here to find out how to add your own kit to this page."
-    url: "https://github.com/rakugoteam/Rakugo-Dialogue-Systemteam.github.io/issues/new?assignees=Jeremi360&labels=Kit&template=kit.md&title=Add+Kit"
+    url: "https://github.com/rakugoteam/rakugoteam.github.io/issues/new/choose"
     btn_label: "Create Kit Issue on Github"
     btn_class: "btn--primary"
   
