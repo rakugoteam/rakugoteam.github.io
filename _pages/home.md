@@ -7,21 +7,13 @@ layout: home
 
 
 
-Inspired by [Ren'Py], Rakugo Project is aimed at providing a better toolset for narrative-based games on [Godot].
+Inspired by [Ren'Py], Rakugo Project is aimed at providing you a toolset for narrative-based games on [Godot].
+
 Simplify your project, if it is a visual novel, point and click, RPG, interactive text game or many other styles and blends of styles.
-Now its a set of plugins for Godot, that can be used in any Godot project.
-But they are also Kits that bring together of our plugins to template that fit your project genre.
 
-Unlock the potential of [Godot] (3.4 and further) and Godot 4.0 with Rakugo !
+We provide you with a set of [plugins](/addons/), that can be used in any Godot project, like a [dialog system](/rakugo-dialogue-system).
 
-Features included in any Kit:
-
-- Dialogue system with rollback and forward
-- Save/Load system
-- Option system
-- UI template for your project
-- ...[and much, much more](/features/).
-
+They are also [kits](/kits/), that bring together our plugins to a godot project that fit a project genre, like [visual novel](/kits/visual-novel-kit).
 
 [Ren'Py]: https://www.renpy.org
 [Godot]: https://godotengine.org
