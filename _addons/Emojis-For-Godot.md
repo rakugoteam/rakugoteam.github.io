@@ -19,7 +19,7 @@ header:
 
 - [repo](https://github.com/rakugoteam/Emojis-For-Godot)
 - [download](https://github.com/rakugoteam/Emojis-For-Godot/releases)
-- docs (WIP)
+- [docs](https://rakugoteam.github.io/emojis-docs)
 
 ![addon-in-action]
 
