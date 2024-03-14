@@ -19,6 +19,12 @@ docs:
     url: "https://rakugoteam.github.io/rakugo-docs/"
     btn_label: "Read Docs"
     btn_class: "btn--primary"
+  
+  - title: "Emojis For Godot"
+  excerpt: "Easy use Emojis in Godot UI"
+  url: "https://rakugoteam.github.io/emojis-docs/"
+  btn_label: "Read Docs"
+  btn_class: "btn--primary"
 ---
 
 {% include feature_row id="docs" %}
