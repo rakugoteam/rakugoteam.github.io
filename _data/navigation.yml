@@ -1,8 +1,6 @@
 main:
   - title: "Devlog"
     url: /devlog/
-  - title: "Features"
-    url: /features/
   - title: "Kits"
     url: /kits/
   - title: "Addons"
