@@ -25,6 +25,12 @@ docs:
   url: "https://rakugoteam.github.io/emojis-docs/"
   btn_label: "Read Docs"
   btn_class: "btn--primary"
+
+  - title: "Godot Material Icons"
+  excerpt: "Easy use Material Icons" in Godot UI"
+  url: "rakugoteam.github.io/material-icons-docs/"
+  btn_label: "Read Docs"
+  btn_class: "btn--primary"
 ---
 
 {% include feature_row id="docs" %}

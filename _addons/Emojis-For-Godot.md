@@ -43,44 +43,14 @@ This addon provides the following nodes to use emojis in Godot:
 - **EmojiIcon**: A node that displays an Emoji.
 - **EmojiButton**: A node that displays an Emoji as a button.
 
-Version 2.x is rewritten to give you access to **EmojisDB** singleton for easier use of emojis anywhere in your project.
+Version 2.x is rewritten to give you access to **EmojisDB**
+singleton for easier use of emojis anywhere in your project.
 
 It's also adds **EmojiFinder** to the Godot's *Project > Tools* menu.
 So you can find the emojis easily.
 
 ![EmojiFinder Screen Shot][emoji-finder-screenshot]
 
-## Using it with RichTextLabel
-This is the example code of using emojis in RichTextLabel:
-```gdscript
-@tool
-extends RichTextLabel
-
-@export_multiline
-var text_with_emojis: String:
-	set(value):
-		if !is_node_ready():
-			return
-
-		text_with_emojis = value
-		bbcode_enabled = true
-		text = EmojisDB.parse_emojis(value)
-	
-	get: return text_with_emojis
-
-func _ready() -> void:
-	if !Engine.is_editor_hint():
-		bbcode_enabled = true
-		text = EmojisDB.parse_emojis(text_with_emojis)
-```
-
-This is the result of the above code:
-
-![RichTextLabel Example Screen Shot][LabelWithEmojis-screenshot]
-
-## Exporting
-For emojis to work in exported projects, you need add `*.json` files to include files settings:
-![include files settings][export-screenshot]
 
 [addon-in-action]:https://github.com/rakugoteam/Emojis-For-Godot/raw/godot-4/.assets/addon-in-action.png
 [noto-emoji]:https://github.com/googlefonts/noto-emoji/tree/main/png
