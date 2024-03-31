@@ -9,7 +9,7 @@ author_profile: true
 
 kits:
   - title: "Add Your Kit"
-    # excerpt: "Click here to find out how to add your own kit to this page."
+    excerpt: "Click here to find out how to add your own kit to this page."
     url: "https://github.com/rakugoteam/rakugoteam.github.io/issues/new/choose"
     btn_label: "Create Kit Issue on Github"
     btn_class: "btn--primary"

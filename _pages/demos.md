@@ -14,8 +14,8 @@ demos:
     btn_label: "Create Demo Issue on Github"
     btn_class: "btn--primary"
   
-  - image_path: https://camo.githubusercontent.com/3158bfd3aa06d69f6e6a58e88ca5cfc31db2e79fb5d10a08a8ffaf731cd5ec77/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f5572396a3363355f6f66302f6d617872657364656661756c742e6a7067
-    title: "Steve Pixelface Example"
+  - title: "Steve Pixelface Example"
+    image_path: "https://github.com/rakugoteam/RDS-Examples/raw/godot-4/stevepixelface_dialog_system/stevepixelface_dialog_system.png"
     excerpt: "Minimalistic example of how to use Rakugo to create interactions with items."
     url: "/demos/steve-pixelface"
     btn_label: "Read More & Download"
