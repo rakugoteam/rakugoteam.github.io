@@ -20,6 +20,13 @@ examples:
     url: "/examples/steve-pixelface"
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
+  
+  - title: "Messages Example"
+    image_path: "https://github.com/rakugoteam/Examples/raw/godot-4/Messages/Messages.png"
+    excerpt: "It emulates using online text-chat app by game characters."
+    url: "/examples/messages"
+    btn_label: "Read More & Download"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="examples" %}
