@@ -14,29 +14,29 @@ showcase:
     btn_label: "Create Game Issue on Github"
     btn_class: "btn--primary"
 
-  - image_path: https://img.itch.zone/aW1hZ2UvMjgyMDY3LzEzNzEyMzcucG5n/315x250%23c/0aC2Kn.png
-    title: "MonDernierJour"
+  - title: "MonDernierJour"
     excerpt: "French text-based game"
+    image_path: "https://img.itch.zone/aW1nLzEzNzAxNzE2LmpwZw==/315x250%23c/pEhZoc.jpg"
     url: "https://theludovyc.itch.io/mondernierjour"
     btn_label: "Play Game"
     btn_class: "btn--primary"
 
-  - image_path: https://img.itch.zone/aW1hZ2UvODQxNTg3LzQ3MTg2NzIucG5n/original/IWLcUQ.png
-    title: Light Letters
+  - title: Light Letters
     excerpt: "A VN- 2D platformer hybrid about two women, Fang and Jayeon, who connect in a jazz bar and try to reach each other through a series of letters."
+    image_path: https://img.itch.zone/aW1hZ2UvODQxNTg3LzQ3MTg2NzIucG5n/original/IWLcUQ.png
     url: https://noodulz.itch.io/light-letters-demo
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
 
-  - image_path: https://img.itch.zone/aW1hZ2UvMjg5NTgxLzE0MjE4NDAucG5n/original/eGv%2F75.png
-    title: "Bot Saves Dream"
+  - title: "Bot Saves Dream"
+    image_path: https://img.itch.zone/aW1hZ2UvMjg5NTgxLzE0MjE4NDAucG5n/original/eGv%2F75.png
     excerpt: This game is a platform/puzzler.
     url: "https://plopsis.itch.io/curator-bot"
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
 
-  - image_path: https://img.itch.zone/aW1hZ2UvMzA1NDY0LzE0OTg2ODIuZ2lm/original/0uRv05.gif
-    title: "Space drive beats"
+  - title: "Space drive beats"
+    image_path: https://img.itch.zone/aW1hZ2UvMzA1NDY0LzE0OTg2ODIuZ2lm/original/0uRv05.gif
     excerpt: Game made for Music Game Jam 2018
     url: "https://plopsis.itch.io/space-drive-beats"
     btn_label: "Read More & Download"

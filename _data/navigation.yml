@@ -5,8 +5,8 @@ main:
     url: /kits/
   - title: "Addons"
     url: /addons/
-  - title: "Demos"
-    url: /demos/
+  - title: "Examples"
+    url: /examples/
   - title: "Docs"
     url: /docs/
   - title: "FAQ"
