@@ -1,13 +1,13 @@
 ---
-title: "Demos"
-permalink: /demos/
+title: "Examples"
+permalink: /examples/
 layout: collection
-# collection: demos
+# collection: examples
 entries_layout: grid
 classes: wide
 author_profile: true
 
-demos:
+examples:
   - title: "Add Your Demo"
     # excerpt: "Click here to find out how to add your own demo to this page."
     url: "https://github.com/rakugoteam/rakugoteam.github.io/issues/new/choose"
@@ -17,9 +17,9 @@ demos:
   - title: "Steve Pixelface Example"
     image_path: "https://github.com/rakugoteam/RDS-Examples/raw/godot-4/stevepixelface_dialog_system/stevepixelface_dialog_system.png"
     excerpt: "Minimalistic example of how to use Rakugo to create interactions with items."
-    url: "/demos/steve-pixelface"
+    url: "/examples/steve-pixelface"
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="demos" %}
+{% include feature_row id="examples" %}
