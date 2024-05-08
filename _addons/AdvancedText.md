@@ -9,7 +9,7 @@ layout: single
 header:
   # teaser: assets/placeholder.png
   # overlay_image: assets/placeholder.png
-  caption: "2.0"
+  caption: "2.0 hotfix 1"
   actions:
     - label: "Download"
       url: "https://github.com/rakugoteam/AdvancedText/releases/latest"
