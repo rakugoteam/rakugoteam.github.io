@@ -30,7 +30,7 @@ docs:
   - title: "Godot Material Icons"
     excerpt: "Easy use Material Icons in Godot UI"
     image_path: "https://rakugoteam.github.io/material-icons-docs/2.1/assets/icon-finder-copy.png"
-    url: "rakugoteam.github.io/material-icons-docs/"
+    url: "https://rakugoteam.github.io/material-icons-docs/"
     btn_label: "Read Docs"
     btn_class: "btn--primary"
 
