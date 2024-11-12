@@ -2,5 +2,8 @@
 	"diffEditor.codeLens": true,
 	"cSpell.words": [
 		"Notif"
-	]
+	],
+	"[yaml]": {
+		"editor.insertSpaces": true
+	}
 }
