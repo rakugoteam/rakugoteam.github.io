@@ -14,8 +14,16 @@ kits:
     btn_label: "Create Kit Issue on Github"
     btn_class: "btn--primary"
   
+  - title: "Rakugo Game Template"
+    excerpt: "Base Template for any Game type, base for our kits."
+    image_path: "https://github.com/rakugoteam/Rakugo-Game-Template/raw/main/Screenshot.png"
+    url: "/kits/rakugo-game-template"
+    btn_label: "Read More & Download"
+    btn_class: "btn--primary"
+  
   - title: "Visual Novel Kit"
     excerpt: "Rakugo Kit is a visual novel kit that you can use to create your own visual novel."
+    image_path: assets/imgs_main/d_the_question.png
     url: "/kits/visual-novel-kit"
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
