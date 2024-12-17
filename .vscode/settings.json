@@ -1,3 +1,6 @@
 {
-	"diffEditor.codeLens": true
+	"diffEditor.codeLens": true,
+	"cSpell.words": [
+		"Notif"
+	]
 }
