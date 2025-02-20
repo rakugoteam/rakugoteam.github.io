@@ -27,17 +27,10 @@ addons:
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
   
-  - title: "Emojis For Godot"
-    excerpt: "Emojis for Godot, adds support for emojis in Godot"
-    image_path: "https://rakugoteam.github.io/emojis-docs/2.2/assets/emoji-finder-copy.png"
-    url: "/addons/emojis-for-godot"
-    btn_label: "Read More & Download"
-    btn_class: "btn--primary"
-  
-  - title: "Godot Material Icons"
-    excerpt: "Material Icons for Godot,adds support for Material Icons in Godot"
-    image_path: "https://rakugoteam.github.io/material-icons-docs/2.1/assets/icon-finder-copy.png"
-    url: "/addons/material-icons"
+  - title: "Godot Icons Fonts"
+    excerpt: "Add possible to use Icons Font in your Godot projects"
+    image_path: "assets/font-icons/mi-docked.png"
+    url: "/addons/icons-fonts"
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
 ---
