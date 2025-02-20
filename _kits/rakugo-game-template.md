@@ -8,7 +8,7 @@ layout: single
 header:
   teaser: https://github.com/rakugoteam/Rakugo-Game-Template/raw/main/Screenshot.png
   overlay_image: https://github.com/rakugoteam/Rakugo-Game-Template/raw/main/Screenshot.png
-  caption: "v1.1"
+  caption: "v1.2"
   actions:
     - label: "Download"
       url: "https://github.com/rakugoteam/Rakugo-Game-Template/releases/latest"
