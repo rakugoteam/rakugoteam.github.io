@@ -34,6 +34,8 @@ exclude:
   - "_kits/kit-example.md"
   - "_showcase/showcase-example.md"
   - "_examples/demo-example.md"
+  - ".venv"
+  - ".vscode"
 
 # Plugins
 plugins:
