@@ -23,3 +23,6 @@ Collection of various custom Nodes
 
 - **ButtonContainer** - Container that behaves like a button
 
+## Utils script
+
+Collection of useful static funcs.
