@@ -9,7 +9,7 @@ layout: single
 header:
   teaser: assets/font-icons/mi-docked.png
   overlay_image: assets/font-icons/mi-docked.png
-  caption: "1.2"
+  caption: "1.2.4"
   actions:
     - label: "Download"
       url: "https://github.com/rakugoteam/Godot-Icons-Fonts/releases/latest"
