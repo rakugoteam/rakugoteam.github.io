@@ -15,7 +15,7 @@ examples:
     btn_class: "btn--primary"
 
   - title: "The Question"
-    image_path: "https://github.com/rakugoteam/Examples/raw/godot-4/Messages/Messages.png"
+    image_path: "images/devlog/the-question-port-0.8.png"
     excerpt: 'Port of Ren''Py "The Question" to Rakugo'
     url: "/examples/messages"
     btn_label: "Read More & Download"
