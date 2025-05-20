@@ -16,9 +16,9 @@ showcase:
 
   - title: "Buy Me Some Time!"
     image_path: https://img.itch.zone/aW1nLzIwNzA1ODY0LnBuZw==/original/ScLtjL.png
-    excerpt: Your friend has committed a crime.
+    excerpt: "Your friend has committed a crime.
     The BASA Office of Investigation is looking for him.
-    They came to you, hoping you would give them some information.
+    They came to you, hoping you would give them some information."
     url: "https://emu42.itch.io/buy-me-some-time"
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
