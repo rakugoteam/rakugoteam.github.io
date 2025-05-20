@@ -14,6 +14,15 @@ showcase:
     btn_label: "Create Game Issue on Github"
     btn_class: "btn--primary"
 
+  - title: "Buy Me Some Time!"
+    image_path: https://img.itch.zone/aW1nLzIwNzA1ODY0LnBuZw==/original/ScLtjL.png
+    excerpt: Your friend has committed a crime.
+    The BASA Office of Investigation is looking for him.
+    They came to you, hoping you would give them some information.
+    url: "https://emu42.itch.io/buy-me-some-time"
+    btn_label: "Read More & Download"
+    btn_class: "btn--primary"
+
   - title: "MonDernierJour"
     excerpt: "French text-based game"
     image_path: "https://img.itch.zone/aW1nLzEzNzAxNzE2LmpwZw==/315x250%23c/pEhZoc.jpg"
@@ -22,7 +31,8 @@ showcase:
     btn_class: "btn--primary"
 
   - title: Light Letters
-    excerpt: "A VN- 2D platformer hybrid about two women, Fang and Jayeon, who connect in a jazz bar and try to reach each other through a series of letters."
+    excerpt: "A VN- 2D platformer hybrid about two women, Fang and Jayeon,
+    who connect in a jazz bar and try to reach each other through a series of letters."
     image_path: https://img.itch.zone/aW1hZ2UvODQxNTg3LzQ3MTg2NzIucG5n/original/IWLcUQ.png
     url: https://noodulz.itch.io/light-letters-demo
     btn_label: "Read More & Download"
