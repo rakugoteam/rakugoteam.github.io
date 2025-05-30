@@ -17,7 +17,7 @@ header:
 ---
 
 - [🌳 repo](https://github.com/rakugoteam/Rakugo-Dialogue-System/)
-- [⬇️ download](https://github.com/rakugoteam/Rakugo-Dialogue-System/releases")
+- [⬇️ download](https://github.com/rakugoteam/Rakugo-Dialogue-System/releases/latest)
 - [📚 docs](https://rakugoteam.github.io/rakugo-docs/)
 
 Inspired by [Ren'Py], Rakugo Project is aimed at providing dialog system for narrative-based games on [Godot].
