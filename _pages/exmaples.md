@@ -17,7 +17,7 @@ examples:
   - title: "The Question"
     image_path: "images/devlog/the-question-port-0.8.png"
     excerpt: 'Port of Ren''Py "The Question" to Rakugo'
-    url: "/examples/messages"
+    url: "https://github.com/rakugoteam/The-Question/tree/2.0?tab=readme-ov-file#the-question"
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
 
