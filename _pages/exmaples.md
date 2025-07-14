@@ -11,7 +11,7 @@ examples:
   - title: "Add Your Demo"
     # excerpt: "Click here to find out how to add your own demo to this page."
     url: "https://github.com/rakugoteam/rakugoteam.github.io/issues/new/choose"
-    btn_label: "Create Demo Issue on Github"
+    btn_label: "Submit Demo on Github"
     btn_class: "btn--primary"
 
   - title: "The Question"
