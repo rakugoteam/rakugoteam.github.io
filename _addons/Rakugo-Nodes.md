@@ -7,8 +7,8 @@ author_profile: true
 author: "Jeremi Biernacki"
 layout: single
 header:
-  # teaser: assets/font-icons/mi-docked.png
-  # overlay_image: assets/font-icons/mi-docked.png
+  teaser: images/devlog/ButtonContanier-ex01.gif
+  overlay_image: images/devlog/ButtonContanier-ex01.gif
   caption: "1.1"
   actions:
     - label: "Download"
