@@ -29,7 +29,7 @@ addons:
 
   - title: "Advanced Text"
     excerpt: "Extends RichTextLabel, adds support for Markdown, RenPy and much more."
-    image_path: ""
+    image_path: "images/AdvancedText.gif"
     url: "/addons/advanced-text"
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
