@@ -41,7 +41,7 @@ addons:
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
   
-   - title: "Rakugo Node"
+  - title: "Rakugo Nodes"
     excerpt: "Collection of various custom Nodes and Utils."
     image_path: "images/devlog/ButtonContanier-ex01.gif"
     url: "/addons/rakugo-nodes"
