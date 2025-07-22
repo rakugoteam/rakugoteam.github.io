@@ -19,18 +19,32 @@ addons:
     url: "/rakugo-dialogue-system"
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
-  
+
+  - title: "RakuScript Colorizer"
+    excerpt: "RakuScript Syntax Highlighting for Godot"
+    image_path: "images/RakuColorizer02.png"
+    url: "/addons/rakuscript-colorizer"
+    btn_label: "Read More & Download"
+    btn_class: "btn--primary"
+
   - title: "Advanced Text"
     excerpt: "Extends RichTextLabel, adds support for Markdown, RenPy and much more."
-    image_path: ""
+    image_path: "images/AdvancedText.gif"
     url: "/addons/advanced-text"
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
-  
+
   - title: "Godot Icons Fonts"
     excerpt: "Add possible to use Icons Font in your Godot projects"
     image_path: "assets/font-icons/mi-docked.png"
     url: "/addons/icons-fonts"
+    btn_label: "Read More & Download"
+    btn_class: "btn--primary"
+  
+   - title: "Rakugo Node"
+    excerpt: "Collection of various custom Nodes and Utils."
+    image_path: "images/devlog/ButtonContanier-ex01.gif"
+    url: "/addons/rakugo-nodes"
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
 ---

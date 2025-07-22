@@ -11,7 +11,7 @@ header:
   caption: "WIP"
   actions:
     - label: "Download beta"
-      url: "https://github.com/rakugoteam/VisualNovelKit/releases/download/1.0-beta.2/VisualNovelKit_1.0-beta.2.zip"
+      url: "https://github.com/rakugoteam/VisualNovelKit/releases/tag/2.0-beta.1"
 ---
 
 This combine Rakugo with addons and gui for visual novel development.
@@ -24,15 +24,13 @@ It will be simpler and easier when it will be ready.
 # Project Setup
 
 ## Fresh Project
-1. [Download Visual Novel Kit](https://github.com/rakugoteam/VisualNovelKit/releases/download/1.0-beta.2/VisualNovelKit_1.0-beta.2.zip)
+
+1. [Download Visual Novel Kit](https://github.com/rakugoteam/VisualNovelKit/releases/tag/2.0-beta.1)
 2. Unpack it and open this folder as Godot Project and your are ready to go
 
-## Update from 01.0-beta.1
-1. [Download Visual Novel Kit Update](https://github.com/rakugoteam/VisualNovelKit/releases/download/1.0-beta.2/nvkit_1.0-beta.2.zip) 
-2. Unpack it over *addons/vnkit* in side your project
-
 ## Customizing UI
-All folders in this directory are UI scenes, and *Window/Window.tscn* is main one that content them all together.
-Those are templates that will be updated in feature. 
-So you should copy them to so other place and and start to change them. 
-After that you must go *Edit > ProjectSettings* and in tab *Autoload* replace original *Window* scene with your version of it.
+
+All folders in this directory are UI scenes, and _Window/Window.tscn_ is main one that content them all together.
+Those are templates that will be updated in feature.
+So you should copy them to so other place and and start to change them.
+After that you must go _Edit > ProjectSettings_ and in tab _Autoload_ replace original _Window_ scene with your version of it.

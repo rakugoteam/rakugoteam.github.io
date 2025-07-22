@@ -7,8 +7,8 @@ author_profile: true
 author: "Jeremi Biernacki"
 layout: single
 header:
-  # teaser: assets/placeholder.png
-  # overlay_image: assets/placeholder.png
+  teaser: images/AdvancedText.gif
+  overlay_image: images/AdvancedText.gif
   caption: "3.0.1-docs"
   actions:
     - label: "Download"
@@ -25,7 +25,7 @@ Soon there will be docs for most of the features.
 ## Features
 
 - Supports Markdown and RenPy
-- Variables use RakuVars `<var>` in Markdown, Renpy and BBCode
+- Variables use RakuVars `<var>` in Markdown, Ren'Py Markup and BBCode
 - Adds headers supports RenPy and BBCode
 - Support [Godot-Icons-Fonts](/addons/icons-fonts)
 
@@ -37,7 +37,7 @@ Soon there will be docs for most of the features.
 
 - **TextParser** - base class for our TextParsers
 - **ExtendedBBCodeParser**:
-  - base of for our RenPy Markup and Markdown parsers
+  - base of for our Ren'Py Markup and Markdown parsers
   - includes support for things mentioned in [Features](#features)
 - **RenPyMarkup** - RenPy Markup Parser with extra tags so it is 100% replaceable with Godot's BBCode
 - **MarkdownParser** - Markdown Parser with extra stuff so it is mostly replaceable with Godot's BBCode
