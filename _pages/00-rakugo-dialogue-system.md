@@ -10,7 +10,7 @@ header:
   header:
   # teaser: assets/placeholder.png
   # overlay_image: assets/placeholder.png
-  caption: "2.2"
+  caption: "2.2.2"
   actions:
     - label: "Download"
       url: "https://github.com/rakugoteam/Rakugo-Dialogue-System/releases/latest"
@@ -24,7 +24,6 @@ Inspired by [Ren'Py], Rakugo Project is aimed at providing dialog system for nar
 
 ## Features
 
-- Save/Load system
 - Dialog system using Inspired by Ren'Py scripting langue called RakuScript
 - Global variables available from both RakuScript and GDScript levels
 - Global characters variables available from both RakuScript and GDScript levels
