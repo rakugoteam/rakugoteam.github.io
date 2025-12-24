@@ -31,6 +31,8 @@ This [Godot](https://godotengine.org)'s project aiming to provide a way to make 
 - Pause Menu
 - Options
 - History
+- Roll-Back (WIP)
+- Auto-Forward (WIP)
 - Save & Load (WIP)
 
 #### Those are modified from RGT
